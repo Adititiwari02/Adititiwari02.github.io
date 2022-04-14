@@ -1,0 +1,46 @@
+{
+    "experiences": [
+        {
+            "title": "Codechef IGDTUW Chapter Leadr",
+            "subtitle": "Codechef",
+            "workType": "Part-time",
+            "workDescription": [
+                "One among the 4 leads chosen by Codechef to run the IGDTUW Chapter.",
+                "As a lead I increased participation among students of my college by 90% gave guidance in improving their CP skills.",
+                "Conducted sessions to increase awareness and knowledge."
+            ],
+            "dateText": "08/2021 – Present"
+        },
+        {
+            "title": "DSA Mentor",
+            "subtitle": "Flurno",
+            "workType": "Part-time",
+            "workDescription": [
+                "Mentored 10 undergrad students in engineering domain under Flurno.",
+                "Gave weekly assignments, assisted with doubts and gave feedback.",
+                "100% of the mentees felt a signi􏰁cant growth under me."
+            ],
+            "dateText": "02/2022 – 03/2022"
+        },
+        {
+            "title": "Project Coordinator",
+            "subtitle": "DSC IGDTUW",
+            "workType": "Part-time",
+            "workDescription": [
+                "Responsible for making students comfortable with the emerging AR and Data Structures and Algorithms.",
+                "Assisted with doubt resolution in DSA and project development in AR."
+            ],
+            "dateText": "09/2020 – 07/2021"
+        },
+        {
+            "title": "Web Development Coordinator",
+            "subtitle": "Innerve & Taarangana",
+            "workType": "Part-time",
+            "workDescription": [
+                "Member of the team that built the website which gives details regarding the annual technical fest and would o􏰀er registration facilities too.",
+                "Contributed in the front end development and site tra􏰂c saw an increase of 400%"
+            ],
+            "dateText": "07/2020 – 11/2020"
+        }
+    ]
+}

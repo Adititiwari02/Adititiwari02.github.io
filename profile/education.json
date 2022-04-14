@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Aug 2019 - Jun 2023",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"Indira Gandhi Delhi Technical University for Women(IGDTUW), New Delhi",
+            "cardDetailedText": "CGPA - 8.82",
+            "icon" : {
+                "src": "images/education/igdtuw-logo.jpeg"
+            }
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Navy Children School, New Delhi",
+            "cardDetailedText": "Marks - 96.8%",
+            "icon" : {
+                "src": "images/education/ncs-logo.jpeg"
+            }
+        }
+    ]
+}

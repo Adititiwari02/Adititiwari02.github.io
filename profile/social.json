@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/aditi-tiwari-69a587192/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Adititiwari02"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:test@test.com"
+        }
+    ]
+}

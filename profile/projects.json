@@ -1,0 +1,143 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/famista.png",
+            "title": "Famista",
+            "bodyText": "Collaborative shopping app which has features like send/accept/reject friend requests, chat, video call, comment, ask for product review, share cart and see if the product has been purchased by their friends.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mansi35/FAMista"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://famista.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "BootStrap",
+                "Heroku",
+                "React",
+                "JavaScript",
+                "WebRTC",
+                "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/ms-engage.png",
+            "title": "Microsoft Teams Clone",
+            "bodyText": "Built as a part of Microsoft Engage program. The app has features like video call, chat, survey system, multiple themes for UI, friend requests feature, make notes and create groups.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/Ms-Engage"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://ms-engage-teams-clone.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "BootStrap",
+                "Heroku",
+                "React",
+                "JavaScript",
+                "WebRTC",
+                "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/fun-learn.jpeg",
+            "title": "Fun Learn",
+            "bodyText": "Incorporates Augmented Reality to help children take their first step in learning. Has a wide variety of options to choose from like learning alphabets or numbers to fun rhymes, colors and shapes, it has got enough elements to keep the child engaged.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/Eduthon-AR"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Augmented Reality",
+                "Unity 3D",
+                "AR Core"
+            ]
+        },
+        {
+            "image": "images/projects/interiorismo.jpeg",
+            "title": "Interiorismo",
+            "bodyText": "An AR App to help in redecoration of the house by placing virtual furniture in the users surrounding. A Tile Layout system is also incorporated along with the various furniture types.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/Interiorismo"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Augmented Reality",
+                "Unity 3D",
+                "AR Core"
+            ]
+        },
+        {
+            "image": "images/projects/simon-game.png",
+            "title": "Simon Game",
+            "bodyText": "This game that tests the users memory. The user will be required to remember the color that gets flashed and press that button. If a correct button is pressed, the level rises and another color is flashed. Now the user has to press the previous button and then the last one and so on the sequence keeps building untill the user has mad an error.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/SimonGame"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://adititiwari02.github.io/SimonGame/"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/drum-kit.png",
+            "title": "Drum Kit",
+            "bodyText": "This is a website that reinforces the concepts learned from Javascript. Have fun playing around with the drums.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/Drum-Learning"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://adititiwari02.github.io/Drum-Learning/"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/tin-dog.png",
+            "title": "Tin Dog",
+            "bodyText": "Tindog is a tinder for dogs. It is a front end static webpage to learn about UI/UX.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Adititiwari02/Tin-Dog"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://adititiwari02.github.io/Tin-Dog/"
+                }
+            ],
+            "tags" : [
+                "CSS",
+                "HTML"
+            ]
+        }
+    ]
+}
